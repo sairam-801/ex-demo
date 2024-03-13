@@ -1,2 +1,2 @@
 # ex-demo
-A  demo github
+A demo github.
